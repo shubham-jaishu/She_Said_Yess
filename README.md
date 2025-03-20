@@ -46,12 +46,12 @@ This project is a humorous and engaging app where:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/she-said-yes.git
+   git clone https://github.com/shubham-jaishu/She_Said_Yess.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd she-said-yes
+   cd She_Said_Yess
    ```
 
 3. Open the `index.html` file in your browser:
